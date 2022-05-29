@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+![Daily Activity](https://activity-graph.herokuapp.com/graph](https://github-readme-stats-helloparthshah.vercel.app/api?username=helloparthshahh&count_private=true&show_icons=true&theme=radical)
+
 [![Parth's GitHub stats](https://github-readme-stats-helloparthshah.vercel.app/api?username=helloparthshah&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-helloparthshah.vercel.app/api/top-langs/?username=helloparthshah&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
