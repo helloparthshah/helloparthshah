@@ -1,5 +1,5 @@
 ### Hello there 👋
-![Daily Activity](https://activity-graph.herokuapp.com/graph](https://github-readme-stats-helloparthshah.vercel.app/api?username=helloparthshahh&count_private=true&show_icons=true&theme=radical)
+![Daily Activity](https://activity-graph.herokuapp.com/graph?username=helloparthshah&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
 
 [![Parth's GitHub stats](https://github-readme-stats-helloparthshah.vercel.app/api?username=helloparthshah&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
