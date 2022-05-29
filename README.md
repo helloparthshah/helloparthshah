@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats-helloparthshah.vercel.app/api/top-langs/?username=helloparthshah&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helloparthshah&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helloparthshah&theme=radical)](https://git.io/streak-stats)
 <!--
 **helloparthshah/helloparthshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
