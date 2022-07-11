@@ -12,7 +12,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helloparthshah&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=helloparthshah&column=8)](https://github-profile-trophy.vercel.app/?username=helloparthshah&column=8)
 <!--
 **helloparthshah/helloparthshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
